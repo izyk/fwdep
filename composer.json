@@ -1,0 +1,14 @@
+{
+    "name": "izyk/fwdep",
+    "description": "My framework dependency",
+    "require": {
+        "monolog/monolog": "^1.23"
+    },
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Ilia Zykov",
+            "email": "ilia@izyk.ru"
+        }
+    ]
+}
